@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://road2resell.ca/sitemap.xml
